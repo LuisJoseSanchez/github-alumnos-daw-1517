@@ -14,14 +14,14 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Clavero García, Juan Antonio
 * Delgado Gallego, Francisco Jesús
 * [Entrambasaguas Espinosa, Ernesto Man](https://github.com/ErnestoEntrambasaguas)
-* Ferioli Núñez, Eliana Mariel
+* [Ferioli Núñez, Eliana Mariel](https://github.com/ElianaFerioli)
 * Gallego Ortega, Aurora
 * [García Van Der Sander, Alba](https://github.com/AlbaGV)
 * Girón Ramírez, Pablo
 * [Gutiérrez Luna, María Belén](https://github.com/BelenGutierrez)
 * [Jiménez Martín, Moisés](https://github.com/mjimenezmartin)
 * [Jurado Moreno, Carlos](https://github.com/CarlosJuradoMoreno)
-* López Mompean, Rubén
+* [López Mompean, Rubén](https://github.com/RubenLopezMompean)
 * [López Ortiz, Alejandro](https://github.com/AlejandroLopez96)
 * Luque Moreno, Oliver
 * Martín Gámez, Antonio
