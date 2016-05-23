@@ -10,7 +10,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Bernal Guerrero, Javier
 * [Brindusoiu , Constantín](https://github.com/BrandConstantin)
 * Castillo Flores, Ángel
-* Castillo Santana, Junior Miguel
+* [Castillo Santana, Junior Miguel](https://github.com/juniorcastillo)
 * Clavero García, Juan Antonio
 * Delgado Gallego, Francisco Jesús
 * [Entrambasaguas Espinosa, Ernesto Man](https://github.com/ErnestoEntrambasaguas)
@@ -26,8 +26,8 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Luque Moreno, Oliver
 * Martín Gámez, Antonio
 * [Montiel Bravo, Isaías](https://github.com/IsaiasMontielBravo)
-* Moreno Hernández, Eduardo Jesús
-* Navarro Ortiz, José
+* [Moreno Hernández, Eduardo Jesús](https://github.com/EduMoreno)
+* [Navarro Ortiz, José](https://github.com/JoseNavarroOrtiz)
 * [Ortega Padilla, Alberto](https://github.com/AlbertoOrtegaPadilla)
 * Reina Benítez, Francisco Javier
 * Rodríguez Naranjo, Moisés
