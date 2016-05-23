@@ -5,7 +5,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Antakov , Yanis](https://github.com/YanisAntakov)
 * Arroyo Escudero, José Antonio
 * [Barroso Del Río, Ángel](https://github.com/AngelBarrosoDelRio)
-* Benítez Vargas, María Margarita
+* [Benítez Vargas, María Margarita](https://github.com/MMARGARITARBV)
 * Bernal Guerrero, David
 * Bernal Guerrero, Javier
 * Brindusoiu , Constantín
@@ -16,7 +16,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Entrambasaguas Espinosa, Ernesto Man](https://github.com/ErnestoEntrambasaguas)
 * Ferioli Núñez, Eliana Mariel
 * Gallego Ortega, Aurora
-* García Van Der Sander, Alba
+* [García Van Der Sander, Alba](https://github.com/AlbaGV)
 * Girón Ramírez, Pablo
 * Gutiérrez Luna, María Belén
 * [Jiménez Martín, Moisés](https://github.com/mjimenezmartin)
@@ -25,13 +25,13 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [López Ortiz, Alejandro](https://github.com/AlejandroLopez96)
 * Luque Moreno, Oliver
 * Martín Gámez, Antonio
-* Montiel Bravo, Isaías
+* [Montiel Bravo, Isaías](https://github.com/IsaiasMontielBravo)
 * Moreno Hernández, Eduardo Jesús
 * Navarro Ortiz, José
 * [Ortega Padilla, Alberto](https://github.com/AlbertoOrtegaPadilla)
 * Reina Benítez, Francisco Javier
 * Rodríguez Naranjo, Moisés
-* Sánchez Cañete, María Dolores
+* [Sánchez Cañete, María Dolores](https://github.com/MariloSanchez)
 * Téllez Santana, María Elena
 * Zambrana Naranjo, Alejandro
 * González Rojo, Rafael
