@@ -2,7 +2,7 @@
 
 Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrollo de Aplicaciones Web** del **IES Campanillas** de la **promoción 2015 - 2017**.
 
-* Antakov , Yanis
+* [Antakov , Yanis](https://github.com/YanisAntakov)
 * Arroyo Escudero, José Antonio
 * [Barroso Del Río, Ángel](https://github.com/AngelBarrosoDelRio)
 * Benítez Vargas, María Margarita
@@ -13,7 +13,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Castillo Santana, Junior Miguel
 * Clavero García, Juan Antonio
 * Delgado Gallego, Francisco Jesús
-* Entrambasaguas Espinosa, Ernesto Man
+* [Entrambasaguas Espinosa, Ernesto Man](https://github.com/ErnestoEntrambasaguas)
 * Ferioli Núñez, Eliana Mariel
 * Gallego Ortega, Aurora
 * García Van Der Sander, Alba
@@ -22,7 +22,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Jiménez Martín, Moisés](https://github.com/mjimenezmartin)
 * Jurado Moreno, Carlos
 * López Mompean, Rubén
-* López Ortiz, Alejandro
+* [López Ortiz, Alejandro](https://github.com/AlejandroLopez96)
 * Luque Moreno, Oliver
 * Martín Gámez, Antonio
 * Montiel Bravo, Isaías
