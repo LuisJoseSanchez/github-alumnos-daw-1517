@@ -3,7 +3,7 @@
 Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrollo de Aplicaciones Web** del **IES Campanillas** de la **promoción 2015 - 2017**.
 
 * [Antakov , Yanis](https://github.com/YanisAntakov)
-* Arroyo Escudero, José Antonio
+* [Arroyo Escudero, José Antonio](https://github.com/JoseAntonioArroyo)
 * [Barroso Del Río, Ángel](https://github.com/AngelBarrosoDelRio)
 * [Benítez Vargas, María Margarita](https://github.com/MMARGARITARBV)
 * [Bernal Guerrero, David](https://github.com/DavidBernalGuerrero)
@@ -12,12 +12,13 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * Castillo Flores, Ángel
 * [Castillo Santana, Junior Miguel](https://github.com/juniorcastillo)
 * [Clavero García, Juan Antonio](https://github.com/JAClaveroGarcia)
-* Delgado Gallego, Francisco Jesús
+* [Delgado Gallego, Francisco Jesús](https://github.com/JesusDelgadoGallego)
 * [Entrambasaguas Espinosa, Ernesto Man](https://github.com/ErnestoEntrambasaguas)
 * [Ferioli Núñez, Eliana Mariel](https://github.com/ElianaFerioli)
 * Gallego Ortega, Aurora
 * [García Van Der Sander, Alba](https://github.com/AlbaGV)
 * [Girón Ramírez, Pablo](https://github.com/PGRtechDeveloper)
+* [González Rojo, Rafael](https://github.com/RafaelGonzalezRojo)
 * [Gutiérrez Luna, María Belén](https://github.com/BelenGutierrez)
 * [Jiménez Martín, Moisés](https://github.com/mjimenezmartin)
 * [Jurado Moreno, Carlos](https://github.com/CarlosJuradoMoreno)
@@ -30,8 +31,7 @@ Enlaces a los perfiles de GitHub de los alumnos del Ciclo Superior de **Desarrol
 * [Navarro Ortiz, José](https://github.com/JoseNavarroOrtiz)
 * [Ortega Padilla, Alberto](https://github.com/AlbertoOrtegaPadilla)
 * Reina Benítez, Francisco Javier
-* Rodríguez Naranjo, Moisés
+* [Rodríguez Naranjo, Moisés](https://github.com/MoisesRodriguezN)
 * [Sánchez Cañete, María Dolores](https://github.com/MariloSanchez)
 * [Téllez Santana, María Elena](https://github.com/ElenaTellez)
 * [Zambrana Naranjo, Alejandro](https://github.com/alejandrozambrana)
-* González Rojo, Rafael
